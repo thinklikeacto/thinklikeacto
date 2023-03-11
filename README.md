@@ -45,14 +45,3 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thinklikeacto/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thinklikeacto/2" alt="Recent Article 2"></a> <br>
 
 
-### Feel free to nudge me on following email!
-
-```javascript
-(function(ca){
-  return ca.map(e => String.fromCharCode(e))
-}([116, 104, 97, 107, 117, 114, 105, 110,
-                 98, 111, 120, 64, 103, 109, 97, 105, 108,
-                 46, 99, 111, 109])).join('');
-```
-
-![Visitor Count](https://profile-counter.glitch.me/thinklikeacto/count.svg)
