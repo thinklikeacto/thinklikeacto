@@ -39,9 +39,3 @@
 ---
 -->
 
-### 📝 My Latest Blog Post on Medium
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thinklikeacto/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thinklikeacto/0" alt="Recent Article 0"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thinklikeacto/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thinklikeacto/1" alt="Recent Article 1"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thinklikeacto/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thinklikeacto/2" alt="Recent Article 2"></a> <br>
-
-
