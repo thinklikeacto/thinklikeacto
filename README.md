@@ -3,7 +3,7 @@
 
 
 :house: I am currently living in Chandigarh City, India :india:<br />
-:desktop_computer: I love to write code to solve real life problems, currently working with JavaScript and Python
+:desktop_computer: Inspire and help teams to solve problems with Software Engineering, AI and ML. Create and build business. Talks about Technology, Team and Product.
 <!--
 - 🌱 I have
 - 👯 I’m looking to collaborate on ...
