@@ -3,7 +3,8 @@
 
 
 :house: I am currently living in Chandigarh City, India :india:<br />
-:desktop_computer: Inspire and help teams to solve problems with Software Engineering, AI and ML. Create and build business. Talks about Technology, Team and Product.
+:desktop_computer: I am a technology leader with 14 years of experience, specialized in Python, Machine Learning, Deep Learning, Generative AI and Large Language Models. I am passionate about technology driven by intellectual curiosity.
+
 <!--
 - 🌱 I have
 - 👯 I’m looking to collaborate on ...
