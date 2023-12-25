@@ -2,8 +2,9 @@
 
 
 
-:house: I am currently living in Chandigarh City, India :india:<br />
+:house: I currently live in Chandigarh, India :india:<br />
 :desktop_computer: I am a technology leader with 14 years of experience, specialized in Python, Machine Learning, Deep Learning, Generative AI and Large Language Models. I am passionate about technology driven by intellectual curiosity.
+🔭 I am currently leading technology at [SearchUnify](https://www.searchunify.com/)
 
 <!--
 - 🌱 I have
