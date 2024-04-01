@@ -3,7 +3,7 @@
 
 
 :house: Currently living in Chandigarh, India :india:<br />
-:desktop_computer: Technology leader with 14 years of experience, specialized in Python, Machine Learning, Deep Learning, Generative AI and Large Language Models. I am passionate about technology driven by intellectual curiosity.<br />
+:desktop_computer: Technology leader with 14 years of experience, specialized in Python, Machine Learning, Deep Learning, Generative AI and Large Language Models. <br />
 🔭 Leading technology at [SearchUnify](https://www.searchunify.com/)
 
 <!--
