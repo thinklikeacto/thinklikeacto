@@ -4,7 +4,7 @@
 
 :house: Currently living in Chandigarh, India :india:<br />
 :desktop_computer: Technology leader with 15 years of experience, specialized in Python, Machine Learning, Deep Learning, Generative AI and Large Language Models. <br />
-🔭 Leading technology at [SearchUnify](https://www.searchunify.com/)
+🧮 Top skills: Technological Innovation • Team Productivity • Problem Solving • Strategic Thinking • Artificial Intelligence (AI)
 
 <!--
 - 🌱 I have
