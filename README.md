@@ -17,6 +17,9 @@ My focus is not just on research — but on **execution**. I believe great AI sh
 
 If you're working on anything exciting in this space — or just want to talk AI, systems, or engineering leadership — feel free to connect.
 
+🔗 [LinkedIn](https://www.linkedin.com/in/thinklikeacto/)  
+✍️ [Medium Blog](https://thinklikeacto.medium.com/)
+
 > _“Think like a CTO, build like an engineer.”_
 
 ---
