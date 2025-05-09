@@ -1,6 +1,6 @@
 # Hello, I'm Naresh Thakur
 
-I'm an AI Architect with 16+ years of engineering experience — now fully immersed in the world of **Generative AI**, **Agentic AI**, and **MLOps**.
+I'm an AI Architect with 16+ years of engineering experience — now fully immersed in the world of **Artificial Intelligence**, **Machine Learning**, **Generative AI**, **Agentic AI**, and **MLOps**.
 
 This space is a reflection of my personal learning journey and exploration. You'll find projects where I:
 - fine-tune and deploy Large Language Models (LLMs),
